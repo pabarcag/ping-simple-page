@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github code](https://github.com/pabarcag/ping-simple-page)
-- Live Site URL: [https://www.google.com](https://www.google.com)
+- Live Site URL: [Live site](https://pabarcag.github.io/ping-simple-page/)
 
 
 ## My process
